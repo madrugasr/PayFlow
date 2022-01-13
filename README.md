@@ -23,7 +23,7 @@
    </p>
 
    <p> 
-   - <a href="https://www.figma.com/file/ZrNubXWjRWADC4t8ZSgLH9/PayFlow-(Community)?node-id=0%3A1">Para visualiza o UI Mobile</a> 📱
+   Visualize a <a href="https://www.figma.com/file/ZrNubXWjRWADC4t8ZSgLH9/PayFlow-(Community)?node-id=0%3A1">UI Mobile</a> 📱
    </p>
    
    
