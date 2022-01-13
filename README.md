@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PayFlow" src="logo.png" width="200px">
+  <img alt="PayFlow" src="logo.png" width="350px" height="350px">
 </p>
 
 
@@ -9,6 +9,10 @@
 <p>
    O PayFlow se trata de um app mobile feito em Flutter para Gerenciamento de Boletos, contendo recursos como o uso de câmera e galeria, Machine Leaning com MLKit, Firebase Core e SignIn, Animações e Estilizações Personalizadas, entre vários outros pontos, como o uso do SharedPreferences. <br>
 </p>
+<p>
+   Com o Flutter você pode utilizar está aplicação no <strong>Telemóvel, Web e Desktop</strong>.
+</p>
+
 
 ---
 
